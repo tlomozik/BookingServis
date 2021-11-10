@@ -13,6 +13,6 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry combineaccessrules="false" kind="src" path="/jsf_06_ejb"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/bookingservis_ejb"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
